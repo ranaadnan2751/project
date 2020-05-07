@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.topbar{
+    background-color: rgb(49,109,195);
+}
+.head-button a{
+    padding: 2px;
+}
+.header{
+    background-color:white;
+}
+ul li{
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 10px;
+    
+}
+ul li a{
+    padding: 5px 15px;
+    color: black;
+    font-size: 14px;
+    
+}
+.hmenu ul li a:hover{
+    background-color: rgb(49,109,195) ;
+    color: white;
+    border-radius: 25px;
+}
+.marquee{
+    background-color: rgb(49,109,195) ;
+    color: white;
+    padding-top: 2px;
+}
+.mar-spn{
+    color: chartreuse;
+}
+.introdiv{
+    background-color: rgb(247,248,250);
+}
+.favi{
+    color: darkseagreen;
+    font-weight: 1000;
+}
+.duc{
+    color: rgb(110,152,61);
+}
+.intro{
+    color: rgb(49,109,195);
+}
+.text{
+    text-align: justify;
+    color: rgb(151,152,152);
+}
+.cont{
+    background-color: rgb(38,85,232);
+    
+}
+.monthly{
+    color: chartreuse;
+}
+.mission{
+    text-align: left;
+    color: rgb(49,109,195);
+}
+.textclr{
+    color: rgb(49,109,195);
+}
+.seprt{
+    width: 70px;
+    height: 3px;
+    background-color: rgb(110,152,61);
+    display: block;
+}
+.project{
+    text-align: left;
+    background-color:rgb(247,248,250);
+}
+.marqueehight{
+    height: 200px;
+}
+.greenline{
+    width: 60px;
+    height: 4px;
+    background-color: rgb(110,152,61);
+    display: block;
+}
+.blackline{
+    width: 300px;
+    height: 1px;
+    background-color:rgb(141, 141, 141);
+    display: block;
+    
+    
+}
+.connect{
+    
+}
+.divtwo{
+    width: 35%;
+}
+.fb{
+    background-color: rgb(49,109,195);
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 6px;
+}
+.tw{
+    background-color: rgb(49,109,195);
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 6px;
+}
+.insta{
+    background-color: rgb(49,109,195);
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 6px;
+}
+.yt{
+    background-color: rgb(49,109,195);
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 6px;
+}
+.text{
+    color: rgb(179,179,179)
+    ;
+}
